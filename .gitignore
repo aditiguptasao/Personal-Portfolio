@@ -1,0 +1,10 @@
+# Private: never publish
+source-docs/
+CLAUDE.md
+content/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
