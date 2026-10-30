@@ -3,6 +3,9 @@ source-docs/
 CLAUDE.md
 content/
 
+# Job-specific resumes (contain phone number and client names)
+assets/Cencora/
+
 # OS / editor noise
 .DS_Store
 Thumbs.db
