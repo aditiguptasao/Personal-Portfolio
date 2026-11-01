@@ -5,6 +5,7 @@ content/
 
 # Job-specific resumes (contain phone number and client names)
 assets/Cencora/
+assets/Optum/
 
 # OS / editor noise
 .DS_Store
